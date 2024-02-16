@@ -7,5 +7,8 @@ runme:
 ```sh {"id":"01HPPASSXF30YRYCMXSCEEMCF8"}
 와 정말 피곤행
 
-스파링 싫어요
+
+스파링 좋지만 싫어요
+
+
 ```
