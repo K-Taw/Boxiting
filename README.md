@@ -33,14 +33,14 @@
   소개부분 작성
 
  #사용 기술
-  프론트엔드
-   언어: TypeScript
-   프레임워크: React 17.0.2
-   상태 관리: Redux 4.1.0
-  백엔드
-   언어: Java 11
-   프레임워크: Spring Boot 2.5.4
-   데이터베이스: MySQL 8.0
+  - 프론트엔드
+   - 언어: TypeScript
+   - 프레임워크: React 17.0.2
+   - 상태 관리: Redux 4.1.0
+  - 백엔드
+   - 언어: Java 11
+   - 프레임워크: Spring Boot 2.5.4
+   - 데이터베이스: MySQL 8.0
 
  ## 시스템 아키텍처
 
