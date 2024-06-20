@@ -47,10 +47,9 @@
  ## ERD
 
  ## 사용법
-  프론트엔드: http://localhost:3000 접근
-  백엔드: http://localhost:8080 접근
-  라이선스
-  GPLv3
+  - 백엔드: http://localhost:8080 접근
+  - 라이선스
+  - GPLv3
 
  ## 크레딧
    - Project Contributors:
