@@ -3,10 +3,10 @@
 
 ## Credits
   - Project Contributors:
-    Ho-Sung Lee - 
-    Jin-Seok Hong - 
-    Hyun-Hoe Kim - 
-    Tae-Woo Kim - 
+    - Ho-Sung Lee - 
+    - Jin-Seok Hong - 
+    - Hyun-Hoe Kim - 
+    - Tae-Woo Kim - 
 
 
 ## Technical Specifications
