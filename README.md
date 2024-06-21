@@ -1,4 +1,4 @@
-#👬 TOGETHER
+# 👬 TOGETHER
 ### 🎉 프로젝트 소개
 TOGETHER는 기존의 화상회의 프로그램에 STT(speach to text)와 TTS(text to speach) 기능을 추가하여
 듣고 말하고 보기 어려웠던 장애인 분들에게 편리함을 제공하는 서비스 입니다.
