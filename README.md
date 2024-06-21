@@ -2,9 +2,9 @@
 ### 프로젝트 소개
 - Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하기 위하여 제작된 Review WebIDE로 제작되었으며,
 
-
-
-
+   
+   
+   
 ### 📌 기술 스택
 
 ### 백엔드
@@ -28,7 +28,7 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 
-   
+
 
 ### 📌 주요기능
 ### 개발 환경 / Development Environment
