@@ -1,11 +1,11 @@
 # Study For Code(스포코)
-### 🎉 프로젝트 소개
+### 프로젝트 소개
 Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하기 위하여 제작된 Review WebIDE로 제작되었으며,
 
 
 
 
-### 💡 기술 스택
+### 기술 스택
 
 ### 백엔드
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
