@@ -7,7 +7,7 @@
    
 ### 📌 기술 스택
 
-#### 백엔드
+### 백엔드
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -19,7 +19,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Bouncy Castle](https://img.shields.io/badge/Bouncy_Castle-6600CC?style=for-the-badge&logo=bouncycastle&logoColor=white)
 
-##### DevOps
+#### DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -31,14 +31,14 @@
 
 
 ### 📌 주요기능
-##### 개발 환경 / Development Environment
+#### 개발 환경 / Development Environment
 
 - **프로그래밍 언어 / Programming Language**: Java 17
 - **빌드 도구 / Build Tool**: Gradle
 - **프레임워크 / Framework**: Spring Boot 3.3.0
 - **라이브러리 및 종속성 관리 / Library and Dependency Management**: Spring Dependency Management Plugin 1.1.5
 
-##### 주요 기능 / Key Features
+#### 주요 기능 / Key Features
 
 - **데이터베이스 / Database**:
   - H2 (테스트용 인메모리 데이터베이스 / In-memory database for testing)
