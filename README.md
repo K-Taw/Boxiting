@@ -49,7 +49,6 @@ image(아키텍처)
 <details>
   <summary> 이호성 [BE]</summary>
   <ul>
-    <li>Click!</li>
     <li>팀장</li>
     <li>Database</li>
     <li>Login API / JWT</li>
@@ -78,11 +77,8 @@ image(아키텍처)
 <details>
   <summary> 김태우 [BE]</summary>
   <ul>
-    <li>STT, TTS 서버 구축</li>
-    <li>랜딩, 메인, 가이드 페이지 레이아웃</li>
-    <li>로그인, 회원가입 컴포넌트 연결</li>
-    <li>회원 정보 수정 폼</li>
-    <li>배포 및 도메인 연결</li>
+    <li> 회원가입 및 로그인 </li>
+    <li> Jira Confluence 관리 </li>
   </ul>
 </details>
 
