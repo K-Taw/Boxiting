@@ -28,7 +28,7 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ### 시스템 구상도
-![ERD](C:\Users\admin\Desktop\Project)
+![ERD](C:\Users\admin\Desktop\Project\Study_For_Code-ERD)
 
 image(아키텍처)
 
