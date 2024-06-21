@@ -1,59 +1,64 @@
-# STUDY FOR CODE
+👬 TOGETHER
+🎉 프로젝트 소개
+TOGETHER는 기존의 화상회의 프로그램에 STT(speach to text)와 TTS(text to speach) 기능을 추가하여
+듣고 말하고 보기 어려웠던 장애인 분들에게 편리함을 제공하는 서비스 입니다.
 
- ## Credits
-  - Project Contributors:
-    - Ho-Sung Lee - 
-    - Jin-Seok Hong - 
-    - Hyun-Hoe Kim - 
-    - Tae-Woo Kim - 
+TOGETHER HOMEPAGE
+TOGETHER NOTION
+💡 기술 스택
+FrontEnd
+React Next JavaScript Tailwind CSS CSS3 Babel
 
+BackEnd
+Spring Boot Spring Security Gradle Apache Maven Kurrento Coturn MySQL OpenSSL
 
- ## Technical Specifications
-   - Development Environment
-     - Programming Language: Java 17
-     - Build Tool: Gradle
-     - Framework: Spring Boot 3.3.0
-     - Library and Dependency Management: Spring Dependency Management Plugin 1.1.5
-     - Key Features
-   - Database:
-     - H2 (In-memory database for testing)
-     - MySQL (Operational database)
-     - MongoDB (NoSQL database)
-   - ORM: Spring Data JPA
-   - Security: Spring Security
-   - Validation: Spring Boot Starter Validation
-   - JWT Authentication:
-     - jjwt-api 0.11.5
-     - jjwt-impl 0.11.5
-     - jjwt-jackson 0.11.5
-   - Encryption: Bouncy Castle Provider 1.69
-  
-# Study-for-Code 프로젝트
- ## 소개
-  소개부분 작성
+DevOps
+Amazon AWS Netlify Docker
 
- #사용 기술
-  - 프론트엔드
-   - 언어: TypeScript
-   - 프레임워크: React 17.0.2
-   - 상태 관리: Redux 4.1.0
-  - 백엔드
-   - 언어: Java 11
-   - 프레임워크: Spring Boot 2.5.4
-   - 데이터베이스: MySQL 8.0
+Co-tool
+JiraGitLab
 
- ## 시스템 아키텍처
+시스템 구상도
+image
 
- ## ERD
+📌 주요 기능
+회원 관리
+회원 가입 시 장애 유무를 선택하여 사용자가 필요한 서비스를 제공받을 수 있습니다.
 
- ## 사용법
-  - 백엔드: http://localhost:8080 접근
-  - 라이선스
-  - GPLv3
+회원가입
+회원가입 (1) )
 
- ## 크레딧
-   - Project Contributors:
-   - Ho-Sung Lee - 
-   - Jin-Seok Hong - 
-   - Hyun-Hoe Kim - 
-   - Tae-Woo Kim - 
+로그인
+로그인
+
+메인 화면
+
+사용자의 고유 방을 확인할 수 있습니다.
+내_회의
+
+초대 코드를 입력하여 방에 입장할 수 있습니다.
+회의_참가
+
+컨퍼런스 기능
+
+컨퍼런스에 입장하기 전 닉네임을 설정해 입장할 수 있습니다.
+시각장애를 가지고 계신 분은 TTS 기능을 제공받을 수 있으며
+TTS
+
+청각장애를 가지고 계신 분은 STT 기능을 제공받을 수 있습니다.
+STT
+🧑 팀원 소개
+유재룡 [ BE ]   Click!
+이　건 [ BE ]
+이호성 [ BE ]
+강민수 [ FE ]
+김태훈 [ FE ]
+진민규 [ FE ]
+🐧 빌드 및 배포
+보러가기✔
+🚩 버전 정보
+보러가기✔
+🔰 DB 정보
+보러가기✔
+🎫 외부 서비스
+보러가기✔
