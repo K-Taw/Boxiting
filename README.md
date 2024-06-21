@@ -27,7 +27,9 @@
 ### 📌 협업 도구
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
- ### 개발환경
+
+
+### 개발환경
  - 개발 환경 / Development Environment
  - 프로그래밍 언어 / Programming Language: Java 17
  - 빌드 도구 / Build Tool: Gradle
@@ -36,13 +38,7 @@
 
    
 
- ### 주요기능
-  - 데이터베이스 / Database:
-   - H2 (테스트용 인메모리 데이터베이스 / In-memory database for testing)
-   - MySQL (운영 데이터베이스 / Operational database)
-   - MongoDB (NoSQL 데이터베이스 / NoSQL database)
-   - ORM: Spring Data JPA
- 
+### 주요기능
 
 
 
