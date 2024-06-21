@@ -37,11 +37,11 @@
    
 
  ### 주요기능
- - 데이터베이스 / Database:
-  - H2 (테스트용 인메모리 데이터베이스 / In-memory database for testing)
-  - MySQL (운영 데이터베이스 / Operational database)
-  - MongoDB (NoSQL 데이터베이스 / NoSQL database)
-  - ORM: Spring Data JPA
+  - 데이터베이스 / Database:
+   - H2 (테스트용 인메모리 데이터베이스 / In-memory database for testing)
+   - MySQL (운영 데이터베이스 / Operational database)
+   - MongoDB (NoSQL 데이터베이스 / NoSQL database)
+   - ORM: Spring Data JPA
  
 
 
