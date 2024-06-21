@@ -30,7 +30,7 @@
 
    
 
-### 주요기능
+### 📌 주요기능
 ### 개발 환경 / Development Environment
 
 - **프로그래밍 언어 / Programming Language**: Java 17
