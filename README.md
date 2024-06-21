@@ -27,7 +27,7 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 ### 협업 도구
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
-시스템 구상도
+### 시스템 구상도
 image(아키텍처)
 
 ### 📌 주요 기능
@@ -36,13 +36,12 @@ image(아키텍처)
     : 이메일을 사용하여 회원가입을 할 수 있다.
 
   - 로그인
-- 메인 화면
-  - 
 
 
 
 
-## 팀원 목록
+
+### 팀원 목록
 
 <details>
   <summary> 이호성 [BE]</summary>
