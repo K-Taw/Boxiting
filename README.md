@@ -28,29 +28,33 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 
-
-### 개발환경
- - 개발 환경 / Development Environment
- - 프로그래밍 언어 / Programming Language: Java 17
- - 빌드 도구 / Build Tool: Gradle
- - 프레임워크 / Framework: Spring Boot 3.3.0
- - 라이브러리 및 종속성 관리 / Library and Dependency Management: Spring Dependency Management Plugin 1.1.5
-
    
 
 ### 주요기능
-  - 데이터베이스 / Database:
-   - H2 (테스트용 인메모리 데이터베이스 / In-memory database for testing)
-   - MySQL (운영 데이터베이스 / Operational database)
-   - MongoDB (NoSQL 데이터베이스 / NoSQL database)
-   - ORM: Spring Data JPA
-  - 보안 / Security: Spring Security
-  - 유효성 검사 / Validation: Spring Boot Starter Validation
-  - JWT 인증 / JWT Authentication:
-   - jjwt-api 0.11.5
-   - jjwt-impl 0.11.5
-   - jjwt-jackson 0.11.5
-  - 암호화 / Encryption: Bouncy Castle Provider 1.69
+## 개발 환경 / Development Environment
+
+- **프로그래밍 언어 / Programming Language**: Java 17
+- **빌드 도구 / Build Tool**: Gradle
+- **프레임워크 / Framework**: Spring Boot 3.3.0
+- **라이브러리 및 종속성 관리 / Library and Dependency Management**: Spring Dependency Management Plugin 1.1.5
+
+## 주요 기능 / Key Features
+
+- **데이터베이스 / Database**:
+  - H2 (테스트용 인메모리 데이터베이스 / In-memory database for testing)
+  - MySQL (운영 데이터베이스 / Operational database)
+  - MongoDB (NoSQL 데이터베이스 / NoSQL database)
+
+- **ORM**: Spring Data JPA
+- **보안 / Security**: Spring Security
+- **유효성 검사 / Validation**: Spring Boot Starter Validation
+
+- **JWT 인증 / JWT Authentication**:
+  - jjwt-api 0.11.5
+  - jjwt-impl 0.11.5
+  - jjwt-jackson 0.11.5
+
+- **암호화 / Encryption**: Bouncy Castle Provider 1.69
 
 
 
