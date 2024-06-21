@@ -28,9 +28,14 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ### 시스템 구상도
-![이미지링크]
+ - 스포코 ERD
+   ![이미지링크]
 
-image(아키텍처)
+
+- 아키텍처
+  ![이미지링크]
+
+
 
 ### 📌 주요 기능
 - 회원관리
@@ -84,13 +89,10 @@ image(아키텍처)
 </details>
 
 
+빌드 및 배포
+
+버전 정보
+
+DB 정보
 
 
-🐧 빌드 및 배포
-보러가기✔
-🚩 버전 정보
-보러가기✔
-🔰 DB 정보
-보러가기✔
-🎫 외부 서비스
-보러가기✔
