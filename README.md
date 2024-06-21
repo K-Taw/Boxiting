@@ -31,14 +31,14 @@
    
 
 ### 주요기능
-## 개발 환경 / Development Environment
+### 개발 환경 / Development Environment
 
 - **프로그래밍 언어 / Programming Language**: Java 17
 - **빌드 도구 / Build Tool**: Gradle
 - **프레임워크 / Framework**: Spring Boot 3.3.0
 - **라이브러리 및 종속성 관리 / Library and Dependency Management**: Spring Dependency Management Plugin 1.1.5
 
-## 주요 기능 / Key Features
+### 주요 기능 / Key Features
 
 - **데이터베이스 / Database**:
   - H2 (테스트용 인메모리 데이터베이스 / In-memory database for testing)
