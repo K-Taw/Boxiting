@@ -5,7 +5,7 @@
    
    
    
-### 📌 기술 스택
+## 📌 기술 스택
 
 ### 백엔드
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -24,13 +24,10 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📌 협업 도구
+### 협업 도구
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 
-
-
-### 📌 주요기능
 #### 개발 환경 / Development Environment
 
 - **프로그래밍 언어 / Programming Language**: Java 17
