@@ -58,7 +58,7 @@
 
 ### 📌 시스템 구상도
  - 스포코 ERD
-   - ![이미지링크](blob:https://goormthinking.atlassian.net/50bdb419-df3e-410c-921d-6f20bfdf7101#media-blob-url=true&id=fb3cb11c-2437-4646-9e2b-62c06073c5c4&collection=contentId-622863&contextId=622863&mimeType=image%2Fpng&name=image-20240623-162214.png&size=71995&width=579&height=987&alt=image-20240623-162214.png)
+![이미지링크](https://goormthinking.atlassian.net/50bdb419-df3e-410c-921d-6f20bfdf7101#media-blob-url=true&id=fb3cb11c-2437-4646-9e2b-62c06073c5c4&collection=contentId-622863&contextId=622863&mimeType=image%2Fpng&name=image-20240623-162214.png&size=71995&width=579&height=987&alt=image-20240623-162214.png)
 
 
  - 아키텍처
