@@ -58,7 +58,7 @@
 
 ### 📌 시스템 구상도
  - 스포코 ERD
-![ERD](https://drive.google.com/file/d/1xjI7_KKNE5sPyaCgNmlDwvN_KOwnnKrc/view?usp=sharing)
+![ERD](https://drive.google.com/file/d/1xjI7_KKNE5sPyaCgNmlDwvN_KOwnnKrc/view)
 
 
  - 아키텍처
