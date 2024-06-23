@@ -62,7 +62,7 @@
 
 
  - 아키텍처
-   - ![이미지링크]
+   - ![이미지링크](https://drive.google.com/file/d/1xjI7_KKNE5sPyaCgNmlDwvN_KOwnnKrc/view?usp=sharing)
 
 
 
